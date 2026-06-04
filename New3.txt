@@ -1,0 +1,21 @@
+Customer ID: 1001
+Customer Name: Nguyen Van A
+Customer Type: Individual
+Status: Active
+
+Product ID: P001
+Product Name: Internet Package
+Price: 200000
+Duration: 30 Days
+
+Order ID: O10001
+Order Date: 2026-06-01
+Order Status: Processing
+
+Department: IT
+Manager: Tran Van B
+Location: Ha Noi
+
+Note 1: Initial Data
+Note 2: Waiting Approval
+Note 3: End
