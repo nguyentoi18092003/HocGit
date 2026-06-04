@@ -19,5 +19,3 @@ Location: Ha Noi
 Note 1: Initial Data
 Note 2: Waiting Approval
 Note 3: End
-Github Note 4: Data verified
-Github Note 5: Approved by QA
