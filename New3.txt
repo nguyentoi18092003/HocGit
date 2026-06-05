@@ -1,5 +1,6 @@
 Customer ID: 1001
 Customer Name: Toi Nguyen Van A
+Customer Name: Github Nguyen Van A
 Customer Type: Individual
 Status: Active
 
