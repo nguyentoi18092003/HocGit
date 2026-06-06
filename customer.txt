@@ -1,0 +1,10 @@
+Customer System v1.0
+
+Customer Name: Nguyen Van A
+Customer Type: NORMAL
+Customer Status: ACTIVE
+
+Address: Ha Noi
+Phone: 0123456789
+
+Created By: System

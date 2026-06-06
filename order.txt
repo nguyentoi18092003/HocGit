@@ -1,0 +1,7 @@
+Order System v1.0
+
+Order ID: ORD001
+Amount: 1000
+Status: NEW
+
+Created By: System
