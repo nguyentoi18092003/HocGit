@@ -1,7 +1,7 @@
-Order System v1.0
+Order System v2.0
 
 Order ID: ORD001
-Amount: 1000
-Status: NEW
+Amount: 5000
+Status: APPROVED
 
-Created By: System
+Created By: Github
