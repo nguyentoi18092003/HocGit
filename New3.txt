@@ -1,3 +1,4 @@
+---- Toi them moi 1 dong o dau 
 Customer ID: 1001
 Customer Name: Toi Nguyen Van A
 Customer Name: Github Nguyen Van A
@@ -9,20 +10,20 @@ Product Name: Internet Package
 Price: 200000
 Duration: 30 Days
 
-Order ID: O10001
+Order ID: O10001 -- Toi Edit 1 dong
 Order Date: 2026-06-01
 Order Status: Processing
 
 Department: IT
+-- Toi them moi 1 dong vao giua
 Manager: Tran Van B
-Location: Ha Noi
 
 Note 1: Initial Data
-Note 2: Waiting Approval
+----Toi xoa 1 dong va them moi 1 dong
 Note 3: End
 
 Github Note 4: Data verified
 Github Note 5: Approved by QA
 
-Github statas -----------Toi Edit
+Github statas -----------Toi them moi 1 dong o cuoi
 
